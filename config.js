@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://hamdan.web.id',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Hamdan Fadhillah',
+  subtitle: 'In Search of Enlightenment.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,15 +25,15 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Muhamad Hamdan Fadhillah',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'A curious guy who will learn everything if he interested.',
     contacts: {
-      email: '',
+      email: 'hamdanfadh@gmail.com ',
       facebook: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'https://twitter.com/HamdanFadh',
+      github: 'https://github.com/HamdanFadh',
       rss: '',
       vkontakte: '',
       linkedin: '#',
